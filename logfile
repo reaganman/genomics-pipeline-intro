@@ -1,0 +1,161 @@
+Downloading SRA files from the given list of accessions
+
+2024-02-06T03:54:27 prefetch.3.0.10: Current preference is set to retrieve SRA Lite files with simplified base quality scores.
+2024-02-06T03:54:30 prefetch.3.0.10: /home/reagan/biol-4310/genomics-pipeline-intro/SRR11851929/SRR11851929.sra (31,196,649) is incomplete. Expected size is 17,423,317. It will be re-downloaded
+2024-02-06T03:54:30 prefetch.3.0.10: 1) Downloading 'SRR11851929.lite'...
+2024-02-06T03:54:30 prefetch.3.0.10: SRA Lite file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2024-02-06T03:54:30 prefetch.3.0.10:  Downloading via HTTPS...
+2024-02-06T03:58:38 prefetch.3.0.10:  HTTPS download succeed
+2024-02-06T03:58:38 prefetch.3.0.10:  'SRR11851929.lite' is valid
+2024-02-06T03:58:38 prefetch.3.0.10: 1) 'SRR11851929.lite' was downloaded successfully
+2024-02-06T03:58:39 prefetch.3.0.10: 'SRR11851929' has 0 unresolved dependencies
+
+2024-02-06T03:58:41 prefetch.3.0.10: Current preference is set to retrieve SRA Lite files with simplified base quality scores.
+2024-02-06T03:58:42 prefetch.3.0.10: /home/reagan/biol-4310/genomics-pipeline-intro/SRR11772640/SRR11772640.sra (19,224,720) is incomplete. Expected size is 8,039,093. It will be re-downloaded
+2024-02-06T03:58:42 prefetch.3.0.10: 2) Downloading 'SRR11772640.sralite'...
+2024-02-06T03:58:42 prefetch.3.0.10: SRA Lite file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2024-02-06T03:58:42 prefetch.3.0.10:  Downloading via HTTPS...
+2024-02-06T04:00:17 prefetch.3.0.10:  HTTPS download succeed
+2024-02-06T04:00:17 prefetch.3.0.10:  'SRR11772640.sralite' is valid
+2024-02-06T04:00:17 prefetch.3.0.10: 2) 'SRR11772640.sralite' was downloaded successfully
+2024-02-06T04:00:17 prefetch.3.0.10: 'SRR11772640' has 0 unresolved dependencies
+
+2024-02-06T04:00:18 prefetch.3.0.10: Current preference is set to retrieve SRA Lite files with simplified base quality scores.
+2024-02-06T04:00:22 prefetch.3.0.10: /home/reagan/biol-4310/genomics-pipeline-intro/SRR11621811/SRR11621811.sra (11,111,020) is incomplete. Expected size is 7,614,624. It will be re-downloaded
+2024-02-06T04:00:22 prefetch.3.0.10: 3) Downloading 'SRR11621811.lite'...
+2024-02-06T04:00:22 prefetch.3.0.10: SRA Lite file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2024-02-06T04:00:22 prefetch.3.0.10:  Downloading via HTTPS...
+2024-02-06T04:01:36 prefetch.3.0.10:  HTTPS download succeed
+2024-02-06T04:01:36 prefetch.3.0.10:  'SRR11621811.lite' is valid
+2024-02-06T04:01:36 prefetch.3.0.10: 3) 'SRR11621811.lite' was downloaded successfully
+2024-02-06T04:01:36 prefetch.3.0.10: 'SRR11621811' has 0 unresolved dependencies
+
+2024-02-06T04:01:37 prefetch.3.0.10: Current preference is set to retrieve SRA Lite files with simplified base quality scores.
+2024-02-06T04:01:41 prefetch.3.0.10: /home/reagan/biol-4310/genomics-pipeline-intro/SRR12045940/SRR12045940.sra (49,485,426) is incomplete. Expected size is 36,906,690. It will be re-downloaded
+2024-02-06T04:01:41 prefetch.3.0.10: 4) Downloading 'SRR12045940.lite'...
+2024-02-06T04:01:41 prefetch.3.0.10: SRA Lite file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2024-02-06T04:01:41 prefetch.3.0.10:  Downloading via HTTPS...
+2024-02-06T04:11:23 prefetch.3.0.10:  HTTPS download succeed
+2024-02-06T04:11:23 prefetch.3.0.10:  'SRR12045940.lite' is valid
+2024-02-06T04:11:23 prefetch.3.0.10: 4) 'SRR12045940.lite' was downloaded successfully
+2024-02-06T04:11:23 prefetch.3.0.10: 'SRR12045940' has 0 unresolved dependencies
+
+2024-02-06T04:11:24 prefetch.3.0.10: Current preference is set to retrieve SRA Lite files with simplified base quality scores.
+2024-02-06T04:11:26 prefetch.3.0.10: /home/reagan/biol-4310/genomics-pipeline-intro/SRR12272284/SRR12272284.sra (27,237,896) is incomplete. Expected size is 14,060,996. It will be re-downloaded
+2024-02-06T04:11:26 prefetch.3.0.10: 5) Downloading 'SRR12272284.lite'...
+2024-02-06T04:11:26 prefetch.3.0.10: SRA Lite file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2024-02-06T04:11:26 prefetch.3.0.10:  Downloading via HTTPS...
+2024-02-06T04:13:58 prefetch.3.0.10:  HTTPS download succeed
+2024-02-06T04:13:58 prefetch.3.0.10:  'SRR12272284.lite' is valid
+2024-02-06T04:13:58 prefetch.3.0.10: 5) 'SRR12272284.lite' was downloaded successfully
+2024-02-06T04:13:58 prefetch.3.0.10: 'SRR12272284' has 0 unresolved dependencies
+
+2024-02-06T04:13:59 prefetch.3.0.10: Current preference is set to retrieve SRA Lite files with simplified base quality scores.
+2024-02-06T04:14:01 prefetch.3.0.10: /home/reagan/biol-4310/genomics-pipeline-intro/SRR11953870/SRR11953870.sra (26,005,194) is incomplete. Expected size is 12,424,256. It will be re-downloaded
+2024-02-06T04:14:01 prefetch.3.0.10: 6) Downloading 'SRR11953870.lite'...
+2024-02-06T04:14:01 prefetch.3.0.10: SRA Lite file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2024-02-06T04:14:01 prefetch.3.0.10:  Downloading via HTTPS...
+2024-02-06T04:16:38 prefetch.3.0.10:  HTTPS download succeed
+2024-02-06T04:16:38 prefetch.3.0.10:  'SRR11953870.lite' is valid
+2024-02-06T04:16:38 prefetch.3.0.10: 6) 'SRR11953870.lite' was downloaded successfully
+2024-02-06T04:16:38 prefetch.3.0.10: 'SRR11953870' has 0 unresolved dependencies
+
+2024-02-06T04:16:39 prefetch.3.0.10: Current preference is set to retrieve SRA Lite files with simplified base quality scores.
+2024-02-06T04:16:41 prefetch.3.0.10: /home/reagan/biol-4310/genomics-pipeline-intro/SRR11954244/SRR11954244.sra (161,821,780) is incomplete. Expected size is 107,973,448. It will be re-downloaded
+2024-02-06T04:16:41 prefetch.3.0.10: 7) Downloading 'SRR11954244.lite'...
+2024-02-06T04:16:41 prefetch.3.0.10: SRA Lite file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2024-02-06T04:16:41 prefetch.3.0.10:  Downloading via HTTPS...
+2024-02-06T04:34:39 prefetch.3.0.10:  HTTPS download succeed
+2024-02-06T04:34:39 prefetch.3.0.10:  'SRR11954244.lite' is valid
+2024-02-06T04:34:39 prefetch.3.0.10: 7) 'SRR11954244.lite' was downloaded successfully
+2024-02-06T04:34:39 prefetch.3.0.10: 'SRR11954244' has 0 unresolved dependencies
+
+2024-02-06T04:34:40 prefetch.3.0.10: Current preference is set to retrieve SRA Lite files with simplified base quality scores.
+2024-02-06T04:34:43 prefetch.3.0.10: /home/reagan/biol-4310/genomics-pipeline-intro/SRR12291581/SRR12291581.sra (17,201,017) is incomplete. Expected size is 11,567,045. It will be re-downloaded
+2024-02-06T04:34:43 prefetch.3.0.10: 8) Downloading 'SRR12291581.lite'...
+2024-02-06T04:34:43 prefetch.3.0.10: SRA Lite file is being retrieved, if this is different from your preference, it may be due to current file availability.
+2024-02-06T04:34:43 prefetch.3.0.10:  Downloading via HTTPS...
+2024-02-06T04:38:16 prefetch.3.0.10:  HTTPS download succeed
+2024-02-06T04:38:16 prefetch.3.0.10:  'SRR12291581.lite' is valid
+2024-02-06T04:38:16 prefetch.3.0.10: 8) 'SRR12291581.lite' was downloaded successfully
+2024-02-06T04:38:16 prefetch.3.0.10: 'SRR12291581' has 0 unresolved dependencies
+SRA files were downloaded in current directory
+
+Done
+
+Converting SRA files to fastq.gz
+SRR11621811.sralite
+SRR11772640.sralite
+SRR11851929.sralite
+SRR11953870.sralite
+SRR11954244.sralite
+SRR12045940.sralite
+SRR12272284.sralite
+SRR12291581.sralite
+Read 383155 spots for SRR11621811.sralite
+Written 383155 spots for SRR11621811.sralite
+Read 210832 spots for SRR11772640.sralite
+Written 210832 spots for SRR11772640.sralite
+Read 229852 spots for SRR11851929.sralite
+Written 229852 spots for SRR11851929.sralite
+Read 242591 spots for SRR11953870.sralite
+Written 242591 spots for SRR11953870.sralite
+Read 2128536 spots for SRR11954244.sralite
+Written 2128536 spots for SRR11954244.sralite
+Read 540814 spots for SRR12045940.sralite
+Written 540814 spots for SRR12045940.sralite
+Read 185090 spots for SRR12272284.sralite
+Written 185090 spots for SRR12272284.sralite
+Read 166349 spots for SRR12291581.sralite
+Written 166349 spots for SRR12291581.sralite
+Trimming downloaded Illumina datasets with fastp.
+
+SRR11621811.fastq.gz
+SRR11772640.fastq.gz
+SRR11851929.fastq.gz
+SRR11953870.fastq.gz
+SRR11954244.fastq.gz
+SRR12045940.fastq.gz
+SRR12272284.fastq.gz
+SRR12291581.fastq.gz
+Indexing Reference
+
+Aligning illumina datasets againts reference with minimap, using n threads.
+
+SRR11621811.fastq.gz.fastp.gz
+SRR11772640.fastq.gz.fastp.gz
+SRR11851929.fastq.gz.fastp.gz
+SRR11953870.fastq.gz.fastp.gz
+SRR11954244.fastq.gz.fastp.gz
+SRR12045940.fastq.gz.fastp.gz
+SRR12272284.fastq.gz.fastp.gz
+SRR12291581.fastq.gz.fastp.gz
+Renaming files in bash
+
+Indexing BAM files.
+
+SRR11621811.bam
+SRR11772640.bam
+SRR11851929.bam
+SRR11953870.bam
+SRR11954244.bam
+SRR12045940.bam
+SRR12272284.bam
+SRR12291581.bam
+Performing Variant Calling with freebayes:
+
+SRR11621811.bam
+SRR11772640.bam
+SRR11851929.bam
+SRR11953870.bam
+SRR11954244.bam
+SRR12045940.bam
+SRR12272284.bam
+SRR12291581.bam
+Merging variants using jacquard
+
+for information, please see: https://jacquard.readthedocs.io/en/v0.42/overview.html#why-would-i-use-jacquard
+
+Merge VCFs using jacquard
+
+Time taken: 5425
